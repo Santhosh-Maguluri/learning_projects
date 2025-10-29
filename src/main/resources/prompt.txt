@@ -1,0 +1,3 @@
+Create a visually engaging educational poster for the course "{{course_name}}".
+Focus on the learning objective: "{{learning_objective}}".
+Style should be clean, modern, and suitable for online learning platforms.
